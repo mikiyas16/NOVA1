@@ -29,7 +29,8 @@ function canvasApp() {
 	var context = theCanvas.getContext("2d");
 
 	var displayWidth;
-	var displayHeight;
+	var displayHeight; 
+	  
 	var timer;
 	var wait;
 	var count;
